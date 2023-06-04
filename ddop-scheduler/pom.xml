@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.reache</groupId>
+    <artifactId>ddop</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>ddop-scheduler</artifactId>
+  <packaging>pom</packaging>
+  <description>ETL调度</description>
+  <modules>
+  	<module>ddop-scheduler-core</module>
+  	<module>ddop-scheduler-worker</module>
+  	<module>ddop-scheduler-master</module>
+  	<module>ddop-scheduler-api</module>
+  </modules>
+</project>

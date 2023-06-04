@@ -1,0 +1,7 @@
+com.reache.ddop.scheduler.plugin.task.flink.FlinkTaskChannelFactory
+com.reache.ddop.scheduler.plugin.task.datax.DataxTaskChannelFactory
+com.reache.ddop.scheduler.plugin.task.http.HttpTaskChannelFactory
+com.reache.ddop.scheduler.plugin.task.python.PythonTaskChannelFactory
+com.reache.ddop.scheduler.plugin.task.shell.ShellTaskChannelFactory
+com.reache.ddop.scheduler.plugin.task.spark.SparkTaskChannelFactory
+com.reache.ddop.scheduler.plugin.task.sql.SqlTaskChannelFactory
